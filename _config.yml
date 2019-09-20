@@ -1,9 +1,9 @@
-url: http://home.ustc.edu.cn  # Change to "http://staff.ustc.edu.cn" if you're a staff
-baseurl: /~ibug               # Change to "/~" plus your email username
+url: http://home.ustc.edu.cn
+baseurl: /~ibug
 
 theme: minima
-title: "My awesome home page" # Your home page name
-description: "Blah blah"      # Your description
+title: "iBug 的科大主页"
+description: "使用 Jekyll 构建"
 
 exclude:
   - '.*'
