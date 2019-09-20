@@ -1,7 +1,7 @@
 url: http://home.ustc.edu.cn
 baseurl: /~ibug
 
-theme: minima
+theme: jekyll-theme-cayman
 title: "iBug 的科大主页"
 description: "使用 Jekyll 构建"
 
